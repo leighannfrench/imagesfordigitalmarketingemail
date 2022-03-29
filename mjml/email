@@ -1,14 +1,100 @@
 <mjml>
   <mj-body>
-    
-    
     <mj-section>
       <mj-column>
         <mj-image src="https://leighannfrench.github.io/imagesfordigitalmarketingemail/img/logo.svg"></mj-image>
         <mj-divider border-color="#F45E43"></mj-divider>
       </mj-column>
     </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://leighannfrench.github.io/imagesfordigitalmarketingemail/img/banner.jpg"></mj-image>
+        <mj-text font-size="30px" font-family="Helvetica Neue" color="#3f0ec6">
+          Find Charlie this week 3/13 - 3/19
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        3/13
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        The Black Canary -  Noon - 5 pm
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+636 Pittsburgh St Unit A, Springdale, PA 15144
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        3/14
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        Cinderlands Foederhouse 4 pm - 9 pm 
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+3705 Butler St, Pittsburgh, PA 15201 | (412) 251-0656
+        </mj-text>
+        
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        3/15
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+       Dancing Gnome Brewery - 4 pm - 9 pm
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+925 Main St, Pittsburgh, PA 15215 | (412) 408-2083
+        </mj-text>
+        
+        
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        3/16
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+     The Black Canary -  3 pm - 8 pm
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+636 Pittsburgh St Unit A, Springdale, PA 15144
+        </mj-text>
+        
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        3/17
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+     Grist House Craft Brewery - 4 pm - 10 pm
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+10 E Sherman St, Pittsburgh, PA 15209
+        </mj-text>
+        
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        3/18
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+    Trace Brewing - 4 pm - 9 pm
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+4312 Main St, Pittsburgh, PA 15224 | (412) 904-3555
+        </mj-text>
+        
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        3/19
+        </mj-text>
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+   Grist House Craft Brewery - 4 pm - 10 pm
+        </mj-text>
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+10 E Sherman St, Pittsburgh, PA 15209
+        </mj-text>
+        
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
+        If it is your first visit, click the link to get 15% off.
+        </mj-text>
+        
+        
+      </mj-column>
+    </mj-section>
+
+ 
+ 
   
-  
+
   </mj-body>
 </mjml>
+
