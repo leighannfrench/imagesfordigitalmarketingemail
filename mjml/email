@@ -1,38 +1,47 @@
 <mjml>
-  <mj-body>
+   <mj-head>
+<mj-attributes>
+
+<mj-all font-family="Helvetica" font-size="20px"/>
+  <mj-text line-height="1.25" />
+  <mj-class name="menutext" font-size="20px" font-family="Helvetica" color="#3f0ec6" />
+  <mj-class name="menutextsub" font-size="20px" font-family="Helvetica" color="#3f0ec6" font-weight="bold"/>
+</mj-attributes>
+ </mj-head>
+ <mj-body>
     <mj-section>
       <mj-column>
         <mj-image src="https://leighannfrench.github.io/imagesfordigitalmarketingemail/img/logo.svg"></mj-image>
         <mj-divider border-color="#F45E43"></mj-divider>
       </mj-column>
     </mj-section>
-
+<mj-wrapper border="2px solid #F45E43" padding="10px 5px">
     <mj-section>
       <mj-column>
         <mj-image src="https://leighannfrench.github.io/imagesfordigitalmarketingemail/img/banner.jpg"></mj-image>
-        <mj-text font-size="30px" font-family="Helvetica Neue" color="#3f0ec6">
+        <mj-text font-size="30px" font-family="Helvetica" color="#3f0ec6" font-weight="bold">
           Find Charlie this week 3/13 - 3/19
         </mj-text>
-        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         3/13
         </mj-text>
-         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+         <mj-text mj-class="menutext">
         The Black Canary -  Noon - 5 pm
         </mj-text>
-        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        <mj-text  mj-class="menutext">
 636 Pittsburgh St Unit A, Springdale, PA 15144
         </mj-text>
-         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         3/14
         </mj-text>
-         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
-        Cinderlands Foederhouse 4 pm - 9 pm 
+         <mj-text mj-class="menutext">
+        Cinderlands Foederhouse 4 pm - 9 pm
         </mj-text>
-        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+        <mj-text  mj-class="menutext">
 3705 Butler St, Pittsburgh, PA 15201 | (412) 251-0656
         </mj-text>
-        
-        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+
+        <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         3/15
         </mj-text>
          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
@@ -41,9 +50,8 @@
         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
 925 Main St, Pittsburgh, PA 15215 | (412) 408-2083
         </mj-text>
-        
-        
-          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         3/16
         </mj-text>
          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
@@ -52,8 +60,8 @@
         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
 636 Pittsburgh St Unit A, Springdale, PA 15144
         </mj-text>
-        
-          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         3/17
         </mj-text>
          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
@@ -62,8 +70,8 @@
         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
 10 E Sherman St, Pittsburgh, PA 15209
         </mj-text>
-        
-          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         3/18
         </mj-text>
          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
@@ -72,8 +80,8 @@
         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
 4312 Main St, Pittsburgh, PA 15224 | (412) 904-3555
         </mj-text>
-        
-          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
+
+          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         3/19
         </mj-text>
          <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
@@ -82,19 +90,45 @@
         <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6">
 10 E Sherman St, Pittsburgh, PA 15209
         </mj-text>
-        
+
           <mj-text font-size="20px" font-family="Helvetica Neue" color="#3f0ec6" font-weight="bold">
         If it is your first visit, click the link to get 15% off.
         </mj-text>
-        
-        
+
+
       </mj-column>
     </mj-section>
+ </mj-wrapper>
 
- 
- 
-  
+  <mj-section>
+      <mj-column>
+       <mj-text font-size="30px" font-family="Helvetica Neue" color="#18d813" font-weight="bold">
+        Saint Patrick's Day at the
+Grist House Craft Brewery
+        </mj-text>
+        <mj-text font-size="30px" font-family="Helvetica Neue" color="#18d813" font-weight="bold">
+        Celibrate with
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 </mjml>
 
+
+
+
+
+
+What’s Charlie Cooking?
+
+Menu
+Green Eggs and Ham $9
+Corned Beef & Cabbage $10
+Cheeseburger $7
+Add bacon $1
+
+Sides
+Fries $1
+Cheese Fries $2
+Mac and Cheese $2
